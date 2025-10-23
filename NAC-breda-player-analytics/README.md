@@ -97,8 +97,6 @@ Simple, interpretable, and achieves lowest MSE.
 
 - **Python (Jupyter Notebook)**  
   `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`, `sympy`
-- **Power BI** — for visualization dashboards  
-- **GitHub** — for version control and portfolio presentation  
 
 ---
 
@@ -115,4 +113,5 @@ While developing this project, I completed several **DataCamp certifications** t
 - **Dimensionality Reduction in Python**
 - **Introduction to Importing Data**
 - **Unit Testing for Data Science in Python**
+
 
