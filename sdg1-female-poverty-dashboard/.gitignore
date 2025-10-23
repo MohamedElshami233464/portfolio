@@ -1,0 +1,15 @@
+# Power BI
+*.pbix~
+*.pbit~
+*.tmp
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.log
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv
