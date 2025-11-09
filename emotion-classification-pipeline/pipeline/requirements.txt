@@ -1,0 +1,26 @@
+# PyTorch - ensure you have the version that works with your CUDA version if using GPU
+torch>=1.10.0
+
+# Hugging Face Transformers library
+transformers>=4.18.0
+
+# For handling data frames
+pandas>=1.3.0
+
+# For numerical operations
+numpy>=1.19.0
+
+# OpenAI Whisper (install via pip install git+https://github.com/openai/whisper if needed)
+whisper
+
+# Required by MarianTokenizer and some translation models
+sentencepiece
+
+# Recommended for some tokenization and translation tasks
+sacremoses
+
+# For downloading and extracting audio from YouTube
+yt-dlp
+
+# For interacting with ffmpeg programmatically
+ffmpeg-python
