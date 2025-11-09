@@ -87,6 +87,24 @@ Implemented and compared multiple architectures:
 
 ---
 
+## 🎨 Prototype & User Testing
+
+Two interactive UI prototypes were designed and evaluated through **A/B user testing** using Figma.  
+These interfaces allow users to capture or upload fruit images and instantly see model predictions (fresh vs. rotten).
+
+| Version | Description | Link |
+|----------|--------------|------|
+| **Version A** | Initial app design focusing on basic functionality and layout. | [View on Figma](https://www.figma.com/proto/tDHK37CHeQ40t4z3PkEEjh/Version-A?node-id=0-1&t=kUVsp0lDGjABtqGr-1) |
+| **Version B** | Improved layout with better contrast, icons, and interaction flow based on user feedback. | [View on Figma](https://www.figma.com/proto/9hvN1cpVybrcTXQEJjRaOx/version-B?t=kUVsp0lDGjABtqGr-1) |
+
+**A/B Test Findings:**
+- Version B scored higher in clarity, color balance, and ease of use.  
+- 80% of test users preferred Version B for visual hierarchy and feedback clarity.  
+- Both versions demonstrated consistent prediction accuracy and smooth flow.
+
+---
+
+
 ## 🧠 Tools & Technologies
 
 | Category | Tools / Libraries |
