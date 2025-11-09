@@ -125,7 +125,7 @@ It reflects not only technical growth in **deep learning** but also awareness of
 
 - 📧 **melshami909@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-elshami)  
-- 💻 [Portfolio Website](https://mohamedelshami.github.io)  
+- 💻 [Portfolio Website](https://mohamedelshami233464.github.io/)  
 - 🧠 [GitHub Portfolio](https://github.com/MohamedElshami233464)
 
 ---
